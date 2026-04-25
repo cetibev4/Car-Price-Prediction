@@ -121,5 +121,3 @@ The model is evaluated using:
 - Machine Learning (Regression)
 
 ---
-
-## 📂 Project Structure
